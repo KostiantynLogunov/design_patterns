@@ -2,7 +2,6 @@
     class Singelton
     {
         private $_instance;
-        private function __construct() {}
         public static function get()
         {
             if ($this->_instance === null) {
@@ -10,4 +9,9 @@
             }
             return $this->_instance;
         }
+
+        private function __construct() {}
+        private function __call() {}
+        private function __wakeup() {}
+
     }

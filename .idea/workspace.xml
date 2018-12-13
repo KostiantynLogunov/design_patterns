@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60ba60c1-9588-4b7c-8411-8a2ae5274b36" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/AirCraft.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/AirCraft.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Boing747.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Boing747.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Niva.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Niva.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/Porshe.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/Porshe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/RussianFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/RussianFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/TU134.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/TU134.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/TransportFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/TransportFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/USAFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/USAFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbstractFactory/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/AbstractFactory/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory/Page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/PageFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory/PageFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/factory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory/factory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/pdf.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory/pdf.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/php.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory/php.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory/txt.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/Factory/txt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/FactoryMethod/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/CarSelector.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/FactoryMethod/CarSelector.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/Geep.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/FactoryMethod/Geep.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/NewGeep.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/FactoryMethod/NewGeep.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/Porshe.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/FactoryMethod/Porshe.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/Start.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/FactoryMethod/Start.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behaviorall/Observer/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/IObservable.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behaviorall/Observer/IObservable.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/IObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behaviorall/Observer/IObserver.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Observer/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/Behaviorall/Observer/View.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/singleton/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/singleton/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Creational/singleton/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,26 +27,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="php" value="34" />
+          <entry key="php" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PHP" value="34" />
+          <entry key="PHP" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
           <entry key="md" value="34" />
-          <entry key="php" value="2182" />
+          <entry key="php" value="2200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="34" />
-          <entry key="PHP" value="2182" />
+          <entry key="PHP" value="2200" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -96,6 +69,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Creational/singleton/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Creational/Factory/PageFactory.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
@@ -148,6 +130,7 @@
         <option value="$PROJECT_DIR$/AbstractFactory/RussianFactory.php" />
         <option value="$PROJECT_DIR$/AbstractFactory/USAFactory.php" />
         <option value="$PROJECT_DIR$/AbstractFactory/index.php" />
+        <option value="$PROJECT_DIR$/Creational/singleton/index.php" />
       </list>
     </option>
   </component>
@@ -179,18 +162,13 @@
             <path>
               <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Behaviorall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="Creational" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="Creational" type="462c0819:PsiDirectoryNode" />
-              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,12 +221,12 @@
       <workItem from="1542661717896" duration="40000" />
       <workItem from="1544647954659" duration="4510000" />
       <workItem from="1544707339466" duration="378000" />
-      <workItem from="1544712625875" duration="9310000" />
+      <workItem from="1544712625875" duration="9669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17348000" />
+    <option name="totallyTimeSpent" value="17707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -267,7 +245,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.168239" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14622642" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -282,13 +260,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Creational/singleton/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Behaviorall/Observer/IObserver.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -324,29 +295,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/Factory/Page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Creational/Factory/php.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
           <folding>
             <element signature="n#createPage#0;n#php#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/Factory/pdf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding>
-            <element signature="n#createPage#0;n#pdf#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -522,10 +476,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Creational/Factory/factory.php">
+    <entry file="file://$PROJECT_DIR$/Creational/Factory/Page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="130">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Factory/pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="n#createPage#0;n#pdf#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -533,6 +497,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/Factory/factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Creational/singleton/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
