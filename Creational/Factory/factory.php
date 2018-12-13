@@ -1,7 +1,7 @@
 <?php
 function __autoload($className) {
     $className = strtolower(str_replace("..", "", $className));
-    require_once ("$className.php");
+    require_once("factory.php");
 }
 
 $factory = new PageFactory();
