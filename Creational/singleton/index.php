@@ -1,17 +1,20 @@
 <?php
-    class Singelton
+
+final class Singelton
     {
-        private $_instance;
-        public static function get()
+        private static $_instance;
+        public static function getInstance()
         {
-            if ($this->_instance === null) {
-                $this->_instance = new self();
+            if (static::$_instance === null) {
+                static::$_instance = new static();
             }
-            return $this->_instance;
+            return static::$_instance;
         }
 
         private function __construct() {}
         private function __call() {}
         private function __wakeup() {}
-
     }
+
+    $obj = Singelton::getInstance();
+    //code with one $obj
